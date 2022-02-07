@@ -1,0 +1,21 @@
+$blue-color: #444c63;
+$blue-text-left: #818dad;
+$blue-text-right: #697a94;
+$photo-title-color: #50586d;
+$grey-text-color: #697a94;
+$indicators-color: #1792c7;
+
+%span {
+  display: inline-block;
+  width: 20px;
+  height: 3px;
+  background: #412727;
+  position: absolute;
+}
+
+%container {
+  max-width: 100%;
+  // height: 593px;
+  height: 100vh;
+  margin: 0 auto;
+}

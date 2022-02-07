@@ -1,0 +1,164 @@
+             <div class="card flex direction-column">
+              <div class="img-container">
+                <img src="img/pic01.png" />
+                <i class="far fa-check-circle"></i>
+              </div>
+              <div class="img-info">
+                <h5>Sad Clown.png</h5>
+                <h6>3 MB</h6>
+              </div>
+            </div> 
+
+            <div class="card flex direction-column">
+              <div class="img-container">
+                <img src="img/pic02.png" />
+                <i class="far fa-check-circle"></i>
+              </div>
+              <div class="img-info">
+                <h5>Sad Clown.png</h5>
+                <h6>3 MB</h6>
+              </div>
+            </div>
+
+            <div class="card flex direction-column">
+              <div class="img-container">
+                <img src="img/pic03.png" />
+                <i class="far fa-check-circle"></i>
+              </div>
+              <div class="img-info">
+                <h5>Sad Clown.png</h5>
+                <h6>3 MB</h6>
+              </div>
+            </div>
+
+            <div class="card flex direction-column">
+              <div class="img-container">
+                <img src="img/pic04.png" />
+                <i class="far fa-check-circle"></i>
+              </div>
+              <div class="img-info">
+                <h5>Sad Clown.png</h5>
+                <h6>3 MB</h6>
+              </div>
+            </div>
+
+            <div class="card flex direction-column">
+              <div class="img-container">
+                <img src="img/pic05.png" />
+                <i class="far fa-check-circle"></i>
+              </div>
+              <div class="img-info">
+                <h5>Sad Clown.png</h5>
+                <h6>3 MB</h6>
+              </div>
+            </div>
+
+            <div class="card flex direction-column">
+              <div class="img-container">
+                <img src="img/pic06.png" />
+                <i class="far fa-check-circle"></i>
+              </div>
+              <div class="img-info">
+                <h5>Sad Clown.png</h5>
+                <h6>3 MB</h6>
+              </div>
+            </div>
+
+            <div class="card flex direction-column">
+              <div class="img-container">
+                <img src="img/pic07.png" />
+                <i class="far fa-check-circle"></i>
+              </div>
+              <div class="img-info">
+                <h5>Sad Clown.png</h5>
+                <h6>3 MB</h6>
+              </div>
+            </div>
+
+            <div class="card flex direction-column">
+              <div class="img-container">
+                <img src="img/pic08.png" />
+                <i class="far fa-check-circle"></i>
+              </div>
+              <div class="img-info">
+                <h5>Sad Clown.png</h5>
+                <h6>3 MB</h6>
+              </div>
+            </div>
+
+            <div class="card flex direction-column">
+              <div class="img-container">
+                <img src="img/pic09.png" />
+                <i class="far fa-check-circle"></i>
+              </div>
+              <div class="img-info">
+                <h5>Sad Clown.png</h5>
+                <h6>3 MB</h6>
+              </div>
+            </div>
+
+            <div class="card flex direction-column">
+              <div class="img-container">
+                <img src="img/pic10.png" />
+                <i class="far fa-check-circle"></i>
+              </div>
+              <div class="img-info">
+                <h5>Sad Clown.png</h5>
+                <h6>3 MB</h6>
+              </div>
+            </div>
+
+            <div class="card flex direction-column">
+              <div class="img-container">
+                <img src="img/pic11.png" />
+                <i class="far fa-check-circle"></i>
+              </div>
+              <div class="img-info">
+                <h5>Sad Clown.png</h5>
+                <h6>3 MB</h6>
+              </div>
+            </div>
+
+            <div class="card flex direction-column">
+              <div class="img-container">
+                <img src="img/pic12.png" />
+                <i class="far fa-check-circle"></i>
+              </div>
+              <div class="img-info">
+                <h5>Sad Clown.png</h5>
+                <h6>3 MB</h6>
+              </div>
+            </div>
+
+            <div class="card flex direction-column">
+              <div class="img-container">
+                <img src="img/pic13.png" />
+                <i class="far fa-check-circle"></i>
+              </div>
+              <div class="img-info">
+                <h5>Sad Clown.png</h5>
+                <h6>3 MB</h6>
+              </div>
+            </div>
+
+            <div class="card flex direction-column">
+              <div class="img-container">
+                <img src="img/pic14.png" />
+                <i class="far fa-check-circle"></i>
+              </div>
+              <div class="img-info">
+                <h5>Sad Clown.png</h5>
+                <h6>3 MB</h6>
+              </div>
+            </div>
+
+            <div class="card flex direction-column">
+              <div class="img-container">
+                <img src="img/pic15.png" />
+                <i class="far fa-check-circle"></i>
+              </div>
+              <div class="img-info">
+                <h5>Sad Clown.png</h5>
+                <h6>3 MB</h6>
+              </div>
+            </div>

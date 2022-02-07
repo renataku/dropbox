@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script
+      src="https://kit.fontawesome.com/6236a234f4.js"
+      crossorigin="anonymous"
+    ></script>
+    <link rel="stylesheet" href="index.css" />
+    <title>Users</title>
+  </head>
+  <body>
+    <main>
+      <div class="container users flex">
+        @@include('parts/left.html')
+        <div class="right">
+          @@include('parts/right_head.html')
+          <table id="users-table">
+            <tr>
+              <th>Name</th>
+              <th>Username</th>
+              <th>Email</th>
+              <th>Phone</th>
+              <th>Website</th>
+            </tr>
+            <tr>
+              <td>Alfreds Futterkiste</td>
+              <td>Maria Anders</td>
+              <td>Germany</td>
+              <td>Germany</td>
+              <td>Germany</td>
+            </tr>
+            <tr>
+              <td>Centro comercial Moctezuma</td>
+              <td>Francisco Chang</td>
+              <td>Mexico</td>
+              <td>Mexico</td>
+              <td>Mexico</td>
+            </tr>
+          </table>
+          <div id="popup">
+            <i id="closePopup" class="fa fa-times" aria-hidden="true"></i>
+            <div id="popupContent"></div>
+          </div>
+        </div>
+      </div>
+    </main>
+    <!-- <script src="js/image_array.js"></script> -->
+    <script type="module" src="js/users.js"></script>
+  </body>
+</html>
